@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JibbeMiddelbrink
+- I’m interested in web and app development
+- I’m currently learning Flutter and Bart
+- How to reach me: middelbrinkjibbe@gmail.com
+- Currently studying business at Radboud University
